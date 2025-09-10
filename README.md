@@ -21,5 +21,3 @@ A machine learning project to classify news articles as **Fake** or **Real** usi
 ## 🚀 Results
 - Logistic Regression: ~98.8% accuracy
 - SVM: ~99.4% accuracy
-
-## 📂 Project Structure
